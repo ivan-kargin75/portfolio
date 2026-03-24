@@ -4,4 +4,4 @@
 ## Проекты
 |№|Название проекта|Описание проекта|Стек|
 |-|----------|----------|----------|
-|1|[Pet-project "Amazon"](https://github.com/ivan-kargin75/portfolio/tree/main/Pet-project%201)|Импорт сгенерированых данных c сайта kaggle. Визуализация и анализ данных, построение дашбордов|Pandas matplotlib scipy|
+|1|[Pet-project "Amazon"](https://github.com/ivan-kargin75/portfolio/tree/main/Pet-project_amazon)|Импорт сгенерированых данных c сайта kaggle. Визуализация и анализ данных, построение дашбордов|Pandas matplotlib scipy|
